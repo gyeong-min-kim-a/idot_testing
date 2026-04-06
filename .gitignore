@@ -1,0 +1,5 @@
+.xml_extract1/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
